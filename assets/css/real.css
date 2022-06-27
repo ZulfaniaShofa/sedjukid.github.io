@@ -1,0 +1,47 @@
+/* Ini yang di perbarui */
+
+.kotak_order form input{
+    border-radius: 5px !important;
+}
+
+.kotak_order form textarea{
+    border-radius: 5px !important;
+}
+
+.kotak_kontak form input {
+    border-radius: 5px !important;
+}
+
+.kotak_kontak form textarea {
+    border-radius: 5px !important;
+}
+
+.form_input {
+    border: solid 2px  #ACBAA1;
+}
+
+.kotak_wrap{
+    background-color: #ACBAA1 !important;
+}
+
+.kotak_wrap p{
+    color: white !important;
+}
+
+.logo h1 {
+    font-family: 'Dongle';
+    font-size: 46px !important;
+    margin-top: 5px !important;
+}
+
+h2 {
+    font-family: 'Poppins';
+}
+
+h3 {
+    font-family: 'Poppins';
+}
+
+h4 {
+    font-family: 'Poppins';
+}
